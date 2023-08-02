@@ -1,0 +1,30 @@
+a {
+    font-size: 18px;
+    color:black;
+    font-weight: bold;
+}
+
+.ingre, .step, .head2 {
+    font-weight: bold;
+    font-size:36px;
+}
+
+.sandwich {
+    width: 400px;
+    height: auto;
+}
+
+.head2 {
+    font-size:36px;
+}
+
+.burger {
+    width: 400px;
+    height: auto;
+}
+
+.intro{
+    border: solid red;
+    border-width: thick;
+    
+}
